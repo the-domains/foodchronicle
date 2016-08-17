@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[foodchronicle]]></title>
         <description><![CDATA[foodchronicle]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/foodchronicle/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Aug 2016 20:20:40 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 17 Aug 2016 21:26:22 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/foodchronicle/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Montana</p>]]></description>
-            <link>undefinedmontana/index.html</link>
+            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9728c0702e029f771478ce5b7e6ff9b2/croprotate.jpg?cropheight=2988&cropwidth=5312&degrees=-180&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fa75b8f5c-62fd-4ff6-a8ee-8baa1cece615.jpg&x=0&y=0">]]></description>
+            <link>https://thegrid.ai/foodchronicle/montana/index.html</link>
             <guid isPermaLink="false">f12eee0f-d97a-4201-b247-429d02f9f81b</guid>
-            <pubDate>Wed, 17 Aug 2016 20:20:11 GMT</pubDate>
+            <pubDate>Wed, 17 Aug 2016 21:26:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
