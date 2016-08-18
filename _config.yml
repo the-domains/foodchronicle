@@ -1,17 +1,22 @@
 name: foodchronicle
-layout_spectrum: 0.23689
-typography_spectrum: 0.9238711043726653
+layout_spectrum: 0.3198909575585276
+typography_spectrum: 0.5573734238278121
 cta: {}
 analytics: {}
 opengraph:
   type: ''
   appId: ''
 color:
-  brandColors: []
-  brandStrength: 0.09302766877226532
-  lightness: 0.8284119067247957
-  saturation: 0.4137985995039344
-  rhythmicContrast: 0.6382650539744645
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+  brandStrength: 0.5240401043556631
+  lightness: 0.4609844700898975
+  saturation: 0.6726444936357439
+  rhythmicContrast: 0.7888720748014748
 purpose: []
 title: food and travel
 author:
@@ -20,3 +25,5 @@ author:
   email: ''
 content_rating:
   adult: false
+coverPrefs:
+  filter: false
