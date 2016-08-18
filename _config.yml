@@ -1,6 +1,6 @@
 name: foodchronicle
-layout_spectrum: 0.3198909575585276
-typography_spectrum: 0.5573734238278121
+layout_spectrum: 0.15699052228592336
+typography_spectrum: 0.4349244220647961
 cta: {}
 analytics: {}
 opengraph:
@@ -13,10 +13,10 @@ color:
     - '#ECF0F1'
     - '#3498DB'
     - '#2980B9'
-  brandStrength: 0.5240401043556631
-  lightness: 0.4609844700898975
-  saturation: 0.6726444936357439
-  rhythmicContrast: 0.7888720748014748
+  brandStrength: 0.6735853429418057
+  lightness: 0.8388924088794738
+  saturation: 0.23581570573151112
+  rhythmicContrast: 0.8729517797473818
 purpose: []
 title: food and travel
 author:
